@@ -1,7 +1,6 @@
 # app-vagas
 
-Projeto desenvolvido com Vue 3 no Vite.
-Projeto tem o intuitu de apresentar uma aplicação que cria um cadastro de vagas de emprego.
+Projeto desenvolvido com Vue 3 no Vite. Tem o intuitu de apresentar uma aplicação que cria um cadastro de vagas de emprego. Este projeto não persiste informações no banco de dados. 
 
 ## Recommended IDE Setup
 
